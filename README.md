@@ -16,7 +16,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: _Username Eumeration_________________
+Vulnerability #1: _Session Hijacking_________________
 
 Vulnerability #2: _SQLi_________________
 
@@ -25,12 +25,12 @@ Vulnerability #2: _SQLi_________________
 
 Vulnerability #1: __XSS________________
 
-Vulnerability #2: __CSFR________________
+Vulnerability #2: __Username Eumeration________________
 
 
 ## Red
 
-Vulnerability #1: __Session Hijacking________________
+Vulnerability #1: __CSFR________________
 
 Vulnerability #2: __IDOR________________
 
